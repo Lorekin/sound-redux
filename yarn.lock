@@ -5896,9 +5896,9 @@ sort-keys@^1.0.0:
   dependencies:
     is-plain-obj "^1.0.0"
 
-soundcloud@^3.2.1:
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/soundcloud/-/soundcloud-3.2.1.tgz#a1bbd9ae816bdc87101f13e609891d66fcbdd7af"
+soundcloud@^3.3.2:
+  version "3.3.2"
+  resolved "https://registry.yarnpkg.com/soundcloud/-/soundcloud-3.3.2.tgz#62d7362abb5f2b412ef52cdc71e70620c993b335"
   dependencies:
     backbone-events-standalone "^0.2.7"
     es6-promise "^2.3.0"
